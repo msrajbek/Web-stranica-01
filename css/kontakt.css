@@ -1,0 +1,19 @@
+:root {
+  --clr-blue: #4285F4;
+  --clr-red: #EA4335;
+}
+.section {
+  padding: 50px;
+  border-top: 1px solid rgba(0, 0, 0, .2);
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
+  margin: -1px 0;
+}
+.card {
+  display: inline-block;
+  width: 400px;
+  cursor: pointer;
+  margin: 36px;
+}
+label{
+  color: white;
+}
