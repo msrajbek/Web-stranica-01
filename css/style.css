@@ -22,7 +22,7 @@
   
   .loader:before, .loader:after {
 	content: "";
-	border: 1em solid #ff5733;
+	border: 1em solid goldenrod;
 	border-radius: 50%;
 	width: inherit;
 	height: inherit;
@@ -70,7 +70,7 @@
 	position: absolute;
 	top: calc(50vh-75px);
 	left: calc(50vw-75px);
-	color:#ff5733;
+	color: goldenrod;
 }
 
 
